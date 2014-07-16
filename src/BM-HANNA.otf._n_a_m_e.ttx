@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <name>
+    <namerecord nameID="0" platformID="1" platEncID="0" langID="0x0">
+      Copyright &#169; 2013 WOOWA BROTHERS Corporation(www.woowahan.com) with Reserved Font Name "BM-HANNA"
+    </namerecord>
+    <namerecord nameID="1" platformID="1" platEncID="0" langID="0x0">
+      BM-HANNAStd
+    </namerecord>
+    <namerecord nameID="2" platformID="1" platEncID="0" langID="0x0">
+      Bold
+    </namerecord>
+    <namerecord nameID="3" platformID="1" platEncID="0" langID="0x0">
+      BM-HANNAStd_Bold
+    </namerecord>
+    <namerecord nameID="4" platformID="1" platEncID="0" langID="0x0">
+      BM-HANNAStd Bold
+    </namerecord>
+    <namerecord nameID="5" platformID="1" platEncID="0" langID="0x0">
+      Version 1.000
+    </namerecord>
+    <namerecord nameID="6" platformID="1" platEncID="0" langID="0x0">
+      BM-HANNAStd
+    </namerecord>
+    <namerecord nameID="10" platformID="1" platEncID="0" langID="0x0">
+      WOOWA BROTHER Corporation_OTF
+    </namerecord>
+    <namerecord nameID="11" platformID="1" platEncID="0" langID="0x0">
+      www.woowahan.com
+    </namerecord>
+    <namerecord nameID="14" platformID="1" platEncID="0" langID="0x0">
+      www.woowahan.com
+    </namerecord>
+    <namerecord nameID="16" platformID="1" platEncID="0" langID="0x0">
+      BM-HANNAStd_OTF
+    </namerecord>
+    <namerecord nameID="17" platformID="1" platEncID="0" langID="0x0">
+      Bold
+    </namerecord>
+    <namerecord nameID="0" platformID="1" platEncID="3" langID="0x17">
+      Copyright &#168;&#207; 2013 WOOWA BROTHERS Corporation(www.woowahan.com) with Reserved Font Name "BM-HANNA"
+    </namerecord>
+    <namerecord nameID="1" platformID="1" platEncID="3" langID="0x17">
+      &#185;&#232;&#180;&#222;&#192;&#199;&#185;&#206;&#193;&#183; &#199;&#209;&#179;&#170;_OTF
+    </namerecord>
+    <namerecord nameID="2" platformID="1" platEncID="3" langID="0x17">
+      Bold
+    </namerecord>
+    <namerecord nameID="3" platformID="1" platEncID="3" langID="0x17">
+      BM-HANNAStd_Bold
+    </namerecord>
+    <namerecord nameID="4" platformID="1" platEncID="3" langID="0x17">
+      &#185;&#232;&#180;&#222;&#192;&#199;&#185;&#206;&#193;&#183; &#199;&#209;&#179;&#170;_OTF
+    </namerecord>
+    <namerecord nameID="5" platformID="1" platEncID="3" langID="0x17">
+      Version 1.000
+    </namerecord>
+    <namerecord nameID="6" platformID="1" platEncID="3" langID="0x17">
+      BMHANNAStd
+    </namerecord>
+    <namerecord nameID="9" platformID="1" platEncID="3" langID="0x17">
+      &#177;&#232;&#186;&#192;&#193;&#248;; &#177;&#221;&#192;&#231;&#199;&#246;; &#177;&#232;&#185;&#206;&#193;&#164;; &#197;&#194;&#193;&#214;&#200;&#241;;
+    </namerecord>
+    <namerecord nameID="10" platformID="1" platEncID="3" langID="0x17">
+      WOOWA BROTHER Corporation_OTF
+    </namerecord>
+    <namerecord nameID="11" platformID="1" platEncID="3" langID="0x17">
+      www.woowahan.com
+    </namerecord>
+    <namerecord nameID="14" platformID="1" platEncID="3" langID="0x17">
+      www.woowahan.com
+    </namerecord>
+    <namerecord nameID="16" platformID="1" platEncID="3" langID="0x17">
+      &#185;&#232;&#180;&#222;&#192;&#199;&#185;&#206;&#193;&#183; &#199;&#209;&#179;&#170;_OTF
+    </namerecord>
+    <namerecord nameID="17" platformID="1" platEncID="3" langID="0x17">
+      Bold
+    </namerecord>
+    <namerecord nameID="20" platformID="1" platEncID="3" langID="0xffff">
+      BMHANNAStd-KSCpc-EUC-H
+    </namerecord>
+    <namerecord nameID="0" platformID="3" platEncID="1" langID="0x409">
+      Copyright &#169; 2013 WOOWA BROTHERS Corporation(www.woowahan.com) with Reserved Font Name "BM-HANNA"
+    </namerecord>
+    <namerecord nameID="1" platformID="3" platEncID="1" langID="0x409">
+      BM-HANNAStd
+    </namerecord>
+    <namerecord nameID="2" platformID="3" platEncID="1" langID="0x409">
+      Bold
+    </namerecord>
+    <namerecord nameID="3" platformID="3" platEncID="1" langID="0x409">
+      BM-HANNAStd_Bold
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x409">
+      BM-HANNAStd Bold
+    </namerecord>
+    <namerecord nameID="5" platformID="3" platEncID="1" langID="0x409">
+      Version 1.000
+    </namerecord>
+    <namerecord nameID="6" platformID="3" platEncID="1" langID="0x409">
+      BM-HANNAStd
+    </namerecord>
+    <namerecord nameID="10" platformID="3" platEncID="1" langID="0x409">
+      WOOWA BROTHER Corporation_OTF
+    </namerecord>
+    <namerecord nameID="11" platformID="3" platEncID="1" langID="0x409">
+      www.woowahan.com
+    </namerecord>
+    <namerecord nameID="14" platformID="3" platEncID="1" langID="0x409">
+      www.woowahan.com
+    </namerecord>
+    <namerecord nameID="16" platformID="3" platEncID="1" langID="0x409">
+      BM-HANNAStd_OTF
+    </namerecord>
+    <namerecord nameID="17" platformID="3" platEncID="1" langID="0x409">
+      Bold
+    </namerecord>
+    <namerecord nameID="0" platformID="3" platEncID="1" langID="0x412">
+      Copyright &#169; 2013 WOOWA BROTHERS Corporation(www.woowahan.com) with Reserved Font Name "BM-HANNA"
+    </namerecord>
+    <namerecord nameID="1" platformID="3" platEncID="1" langID="0x412">
+      &#48176;&#45804;&#51032;&#48124;&#51313; &#54620;&#45208;_OTF
+    </namerecord>
+    <namerecord nameID="2" platformID="3" platEncID="1" langID="0x412">
+      Bold
+    </namerecord>
+    <namerecord nameID="3" platformID="3" platEncID="1" langID="0x412">
+      BM-HANNAStd_Bold
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x412">
+      &#48176;&#45804;&#51032;&#48124;&#51313; &#54620;&#45208;_OTF
+    </namerecord>
+    <namerecord nameID="5" platformID="3" platEncID="1" langID="0x412">
+      Version 1.000
+    </namerecord>
+    <namerecord nameID="6" platformID="3" platEncID="1" langID="0x412">
+      BMHANNAStd
+    </namerecord>
+    <namerecord nameID="9" platformID="3" platEncID="1" langID="0x412">
+      &#44608;&#48393;&#51652;; &#44552;&#51116;&#54788;; &#44608;&#48124;&#51221;; &#53468;&#51452;&#55148;;
+    </namerecord>
+    <namerecord nameID="10" platformID="3" platEncID="1" langID="0x412">
+      WOOWA BROTHER Corporation_OTF
+    </namerecord>
+    <namerecord nameID="11" platformID="3" platEncID="1" langID="0x412">
+      www.woowahan.com
+    </namerecord>
+    <namerecord nameID="14" platformID="3" platEncID="1" langID="0x412">
+      www.woowahan.com
+    </namerecord>
+    <namerecord nameID="16" platformID="3" platEncID="1" langID="0x412">
+      &#48176;&#45804;&#51032;&#48124;&#51313; &#54620;&#45208;_OTF
+    </namerecord>
+    <namerecord nameID="17" platformID="3" platEncID="1" langID="0x412">
+      Bold
+    </namerecord>
+  </name>
+
+</ttFont>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <kern>
+    <version value="0"/>
+    <kernsubtable coverage="1" format="0">
+      <pair l="cid36" r="cid55" v="-50"/>
+      <pair l="cid36" r="cid57" v="-70"/>
+      <pair l="cid36" r="cid58" v="-70"/>
+      <pair l="cid36" r="cid60" v="-80"/>
+      <pair l="cid51" r="cid36" v="-70"/>
+      <pair l="cid55" r="cid36" v="-60"/>
+      <pair l="cid55" r="cid82" v="-50"/>
+      <pair l="cid57" r="cid36" v="-80"/>
+      <pair l="cid57" r="cid92" v="-50"/>
+      <pair l="cid58" r="cid36" v="-65"/>
+      <pair l="cid60" r="cid36" v="-80"/>
+      <pair l="cid82" r="cid55" v="-50"/>
+      <pair l="cid89" r="cid77" v="-50"/>
+      <pair l="cid90" r="cid77" v="-35"/>
+    </kernsubtable>
+  </kern>
+
+</ttFont>
