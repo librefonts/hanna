@@ -1,0 +1,65 @@
+Fonts
+  All fonts have the same character sets.
+  Font:
+    Common name: 배달의민족 한나_OTF
+    Sub family: Bold
+    Weight: bold
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright © 2013 WOOWA BROTHERS Corporation(www.woowahan.com) with Reserved Font Name "BM-HANNA"
+    License url: www.woowahan.com
+    Version: Version 1.000
+    Vendor url: www.woowahan.com
+    Designer: 김봉진; 금재현; 김민정; 태주희;
+    Glyph count: 11354
+    Character count: 11352
+    Orthographies:
+        Orthography:
+          Common name: Subset latin
+          Support level: fragmentary
+          Percent coverage: 44
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+  Font:
+    Common name: 배달의민족 한나
+    Sub family: Regular
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: no
+    Copyright: Copyright (c) 2013 WOOWA BROTHERS Corporation(www.woowahan.com) with Reserved Font Name "BM HANNA"
+    License: This Font Software is licensed under the SIL Open Font License, Version 1.1.
+    License url: www.woowahan.com
+    Version: Version 1.000
+    Vendor: WOOWA BROTHERS Corporation.
+    Vendor url: www.woowahan.com
+    Designer: 김봉진; 금재현; 김민정; 태주희;
+    Designer url: www.woowahan.com
+    Glyph count: 11354
+    Character count: 11352
+    Orthographies:
+        Orthography:
+          Common name: Subset latin
+          Support level: fragmentary
+          Percent coverage: 44
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23

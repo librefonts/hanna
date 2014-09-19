@@ -1,0 +1,32 @@
+{
+  "name": "UNKNOWN",
+  "designer": "BONGJIN KIM, JAEHYUN KEUM, MINJUNG KIM, JUHEE TAE",
+  "license": "",
+  "visibility": "Sandbox",
+  "category": "monospace",
+  "size": 181658,
+  "fonts": [
+    {
+      "name": "UNKNOWN",
+      "style": "normal",
+      "weight": 700,
+      "filename": "BM-HANNAStd-Bold.ttf",
+      "postScriptName": "BM-HANNAStd-KO",
+      "fullName": "",
+      "copyright": ""
+    },
+    {
+      "name": "UNKNOWN",
+      "style": "normal",
+      "weight": 400,
+      "filename": "BMHANNA-Regular.ttf",
+      "postScriptName": "BMHANNA",
+      "fullName": "BM HANNA",
+      "copyright": "Copyright (c) 2013 WOOWA BROTHERS Corporation(www.woowahan.com) with Reserved Font Name \"BM HANNA\""
+    }
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "dateAdded": "2014-09-19"
+}
